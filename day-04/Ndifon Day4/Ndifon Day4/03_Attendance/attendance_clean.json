@@ -1,0 +1,2216 @@
+[
+  {
+    "student_id": "C6STU0034",
+    "name": "Sipho Mokoena",
+    "sessions_total": 25,
+    "sessions_attended": 3,
+    "late_submissions": 6,
+    "attendance_percent": 12.0,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0093",
+    "name": "Neo Mthembu",
+    "sessions_total": 25,
+    "sessions_attended": 3,
+    "late_submissions": 1,
+    "attendance_percent": 12.0,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0146",
+    "name": "Boitumelo Mathebula",
+    "sessions_total": 25,
+    "sessions_attended": 3,
+    "late_submissions": 0,
+    "attendance_percent": 12.0,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0200",
+    "name": "Nomsa Ndlovu",
+    "sessions_total": 23,
+    "sessions_attended": 3,
+    "late_submissions": 6,
+    "attendance_percent": 13.043478260869565,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0202",
+    "name": "Lerato Dlamini",
+    "sessions_total": 22,
+    "sessions_attended": 3,
+    "late_submissions": 0,
+    "attendance_percent": 13.636363636363637,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0075",
+    "name": "Tumelo Khumalo",
+    "sessions_total": 21,
+    "sessions_attended": 3,
+    "late_submissions": 5,
+    "attendance_percent": 14.285714285714286,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0246",
+    "name": "Karabo Masango",
+    "sessions_total": 21,
+    "sessions_attended": 3,
+    "late_submissions": 5,
+    "attendance_percent": 14.285714285714286,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0072",
+    "name": "Mpho Sithole",
+    "sessions_total": 21,
+    "sessions_attended": 3,
+    "late_submissions": 3,
+    "attendance_percent": 14.285714285714286,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0016",
+    "name": "Karabo Mabaso",
+    "sessions_total": 21,
+    "sessions_attended": 3,
+    "late_submissions": 0,
+    "attendance_percent": 14.285714285714286,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0181",
+    "name": "Palesa Radebe",
+    "sessions_total": 19,
+    "sessions_attended": 3,
+    "late_submissions": 4,
+    "attendance_percent": 15.789473684210526,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0035",
+    "name": "Katlego Molefe",
+    "sessions_total": 25,
+    "sessions_attended": 4,
+    "late_submissions": 3,
+    "attendance_percent": 16.0,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0131",
+    "name": "Nomsa Mathebula",
+    "sessions_total": 25,
+    "sessions_attended": 4,
+    "late_submissions": 0,
+    "attendance_percent": 16.0,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0134",
+    "name": "Sipho Dlamini",
+    "sessions_total": 23,
+    "sessions_attended": 4,
+    "late_submissions": 5,
+    "attendance_percent": 17.391304347826086,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0064",
+    "name": "Nomsa Molefe",
+    "sessions_total": 23,
+    "sessions_attended": 4,
+    "late_submissions": 3,
+    "attendance_percent": 17.391304347826086,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0096",
+    "name": "Sibusiso Dlamini",
+    "sessions_total": 16,
+    "sessions_attended": 3,
+    "late_submissions": 4,
+    "attendance_percent": 18.75,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0009",
+    "name": "Tumelo Sithole",
+    "sessions_total": 20,
+    "sessions_attended": 4,
+    "late_submissions": 6,
+    "attendance_percent": 20.0,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0205",
+    "name": "Tshepo Mogale",
+    "sessions_total": 20,
+    "sessions_attended": 4,
+    "late_submissions": 2,
+    "attendance_percent": 20.0,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0243",
+    "name": "Nomsa Sithole",
+    "sessions_total": 20,
+    "sessions_attended": 4,
+    "late_submissions": 1,
+    "attendance_percent": 20.0,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0170",
+    "name": "Boitumelo Sithole",
+    "sessions_total": 24,
+    "sessions_attended": 5,
+    "late_submissions": 0,
+    "attendance_percent": 20.833333333333332,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0137",
+    "name": "Kabelo Nkosi",
+    "sessions_total": 19,
+    "sessions_attended": 4,
+    "late_submissions": 6,
+    "attendance_percent": 21.05263157894737,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0232",
+    "name": "Nomsa Nkosi",
+    "sessions_total": 19,
+    "sessions_attended": 4,
+    "late_submissions": 6,
+    "attendance_percent": 21.05263157894737,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0036",
+    "name": "Mandla Mthembu",
+    "sessions_total": 19,
+    "sessions_attended": 4,
+    "late_submissions": 5,
+    "attendance_percent": 21.05263157894737,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0174",
+    "name": "Lesedi Mahlangu",
+    "sessions_total": 19,
+    "sessions_attended": 4,
+    "late_submissions": 1,
+    "attendance_percent": 21.05263157894737,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0195",
+    "name": "Karabo Masango",
+    "sessions_total": 14,
+    "sessions_attended": 3,
+    "late_submissions": 5,
+    "attendance_percent": 21.428571428571427,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0247",
+    "name": "Mandla Ndlovu",
+    "sessions_total": 14,
+    "sessions_attended": 3,
+    "late_submissions": 5,
+    "attendance_percent": 21.428571428571427,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0074",
+    "name": "Boitumelo Mabaso",
+    "sessions_total": 23,
+    "sessions_attended": 5,
+    "late_submissions": 1,
+    "attendance_percent": 21.73913043478261,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0154",
+    "name": "Neo Khumalo",
+    "sessions_total": 17,
+    "sessions_attended": 4,
+    "late_submissions": 3,
+    "attendance_percent": 23.529411764705884,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0115",
+    "name": "Nomsa Motaung",
+    "sessions_total": 21,
+    "sessions_attended": 5,
+    "late_submissions": 5,
+    "attendance_percent": 23.80952380952381,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0054",
+    "name": "Karabo Mathebula",
+    "sessions_total": 12,
+    "sessions_attended": 3,
+    "late_submissions": 6,
+    "attendance_percent": 25.0,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0203",
+    "name": "Karabo Sithole",
+    "sessions_total": 16,
+    "sessions_attended": 4,
+    "late_submissions": 5,
+    "attendance_percent": 25.0,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0039",
+    "name": "Palesa Nkosi",
+    "sessions_total": 16,
+    "sessions_attended": 4,
+    "late_submissions": 4,
+    "attendance_percent": 25.0,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0162",
+    "name": "Karabo Mahlangu",
+    "sessions_total": 20,
+    "sessions_attended": 5,
+    "late_submissions": 4,
+    "attendance_percent": 25.0,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0062",
+    "name": "Katlego Mphahlele",
+    "sessions_total": 16,
+    "sessions_attended": 4,
+    "late_submissions": 2,
+    "attendance_percent": 25.0,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0180",
+    "name": "Lerato Sithole",
+    "sessions_total": 12,
+    "sessions_attended": 3,
+    "late_submissions": 1,
+    "attendance_percent": 25.0,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0196",
+    "name": "Palesa Radebe",
+    "sessions_total": 23,
+    "sessions_attended": 6,
+    "late_submissions": 5,
+    "attendance_percent": 26.08695652173913,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0149",
+    "name": "Lesedi Motaung",
+    "sessions_total": 11,
+    "sessions_attended": 3,
+    "late_submissions": 0,
+    "attendance_percent": 27.272727272727273,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0085",
+    "name": "Tumelo Mphahlele",
+    "sessions_total": 14,
+    "sessions_attended": 4,
+    "late_submissions": 5,
+    "attendance_percent": 28.571428571428573,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0019",
+    "name": "Zanele Motaung",
+    "sessions_total": 17,
+    "sessions_attended": 5,
+    "late_submissions": 3,
+    "attendance_percent": 29.41176470588235,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0056",
+    "name": "Zanele Khumalo",
+    "sessions_total": 17,
+    "sessions_attended": 5,
+    "late_submissions": 0,
+    "attendance_percent": 29.41176470588235,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0213",
+    "name": "Lesedi Ndlovu",
+    "sessions_total": 10,
+    "sessions_attended": 3,
+    "late_submissions": 6,
+    "attendance_percent": 30.0,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0145",
+    "name": "Neo Mathebula",
+    "sessions_total": 20,
+    "sessions_attended": 6,
+    "late_submissions": 5,
+    "attendance_percent": 30.0,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0082",
+    "name": "Katlego Molefe",
+    "sessions_total": 23,
+    "sessions_attended": 7,
+    "late_submissions": 6,
+    "attendance_percent": 30.434782608695652,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0052",
+    "name": "Karabo Motaung",
+    "sessions_total": 23,
+    "sessions_attended": 7,
+    "late_submissions": 4,
+    "attendance_percent": 30.434782608695652,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0210",
+    "name": "Palesa Radebe",
+    "sessions_total": 23,
+    "sessions_attended": 7,
+    "late_submissions": 0,
+    "attendance_percent": 30.434782608695652,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0059",
+    "name": "Sipho Mokoena",
+    "sessions_total": 16,
+    "sessions_attended": 5,
+    "late_submissions": 5,
+    "attendance_percent": 31.25,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0098",
+    "name": "Naledi Ndlovu",
+    "sessions_total": 16,
+    "sessions_attended": 5,
+    "late_submissions": 0,
+    "attendance_percent": 31.25,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0042",
+    "name": "Tshepo Dlamini",
+    "sessions_total": 24,
+    "sessions_attended": 8,
+    "late_submissions": 3,
+    "attendance_percent": 33.333333333333336,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0041",
+    "name": "Lerato Mthembu",
+    "sessions_total": 18,
+    "sessions_attended": 6,
+    "late_submissions": 2,
+    "attendance_percent": 33.333333333333336,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0225",
+    "name": "Naledi Sithole",
+    "sessions_total": 12,
+    "sessions_attended": 4,
+    "late_submissions": 2,
+    "attendance_percent": 33.333333333333336,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0123",
+    "name": "Palesa Masango",
+    "sessions_total": 12,
+    "sessions_attended": 4,
+    "late_submissions": 0,
+    "attendance_percent": 33.333333333333336,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0222",
+    "name": "Mpho Mogale",
+    "sessions_total": 12,
+    "sessions_attended": 4,
+    "late_submissions": 0,
+    "attendance_percent": 33.333333333333336,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0238",
+    "name": "Lesedi Radebe",
+    "sessions_total": 20,
+    "sessions_attended": 7,
+    "late_submissions": 1,
+    "attendance_percent": 35.0,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0184",
+    "name": "Thandi Nkosi",
+    "sessions_total": 17,
+    "sessions_attended": 6,
+    "late_submissions": 0,
+    "attendance_percent": 35.294117647058826,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0133",
+    "name": "Karabo Mthembu",
+    "sessions_total": 14,
+    "sessions_attended": 5,
+    "late_submissions": 5,
+    "attendance_percent": 35.714285714285715,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0212",
+    "name": "Neo Mogale",
+    "sessions_total": 22,
+    "sessions_attended": 8,
+    "late_submissions": 5,
+    "attendance_percent": 36.36363636363637,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0188",
+    "name": "Nomsa Mabena",
+    "sessions_total": 19,
+    "sessions_attended": 7,
+    "late_submissions": 2,
+    "attendance_percent": 36.8421052631579,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0175",
+    "name": "Mpho Mahlangu",
+    "sessions_total": 24,
+    "sessions_attended": 9,
+    "late_submissions": 2,
+    "attendance_percent": 37.5,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0015",
+    "name": "Sipho Nkosi",
+    "sessions_total": 24,
+    "sessions_attended": 9,
+    "late_submissions": 0,
+    "attendance_percent": 37.5,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0021",
+    "name": "Sipho Mthembu",
+    "sessions_total": 13,
+    "sessions_attended": 5,
+    "late_submissions": 6,
+    "attendance_percent": 38.46153846153846,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0167",
+    "name": "Mandla Mathebula",
+    "sessions_total": 13,
+    "sessions_attended": 5,
+    "late_submissions": 5,
+    "attendance_percent": 38.46153846153846,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0194",
+    "name": "Sibusiso Maseko",
+    "sessions_total": 13,
+    "sessions_attended": 5,
+    "late_submissions": 5,
+    "attendance_percent": 38.46153846153846,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0070",
+    "name": "Lerato Mthembu",
+    "sessions_total": 13,
+    "sessions_attended": 5,
+    "late_submissions": 2,
+    "attendance_percent": 38.46153846153846,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0027",
+    "name": "Naledi Maseko",
+    "sessions_total": 13,
+    "sessions_attended": 5,
+    "late_submissions": 1,
+    "attendance_percent": 38.46153846153846,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0008",
+    "name": "Boitumelo Dlamini",
+    "sessions_total": 13,
+    "sessions_attended": 5,
+    "late_submissions": 0,
+    "attendance_percent": 38.46153846153846,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0141",
+    "name": "Zanele Maseko",
+    "sessions_total": 23,
+    "sessions_attended": 9,
+    "late_submissions": 0,
+    "attendance_percent": 39.130434782608695,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0219",
+    "name": "Mandla Mahlangu",
+    "sessions_total": 10,
+    "sessions_attended": 4,
+    "late_submissions": 6,
+    "attendance_percent": 40.0,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0125",
+    "name": "Naledi Maseko",
+    "sessions_total": 25,
+    "sessions_attended": 10,
+    "late_submissions": 5,
+    "attendance_percent": 40.0,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0012",
+    "name": "Kabelo Mogale",
+    "sessions_total": 10,
+    "sessions_attended": 4,
+    "late_submissions": 0,
+    "attendance_percent": 40.0,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0178",
+    "name": "Thandi Masango",
+    "sessions_total": 12,
+    "sessions_attended": 5,
+    "late_submissions": 6,
+    "attendance_percent": 41.666666666666664,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0182",
+    "name": "Sibusiso Sithole",
+    "sessions_total": 12,
+    "sessions_attended": 5,
+    "late_submissions": 6,
+    "attendance_percent": 41.666666666666664,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0049",
+    "name": "Mpho Mogale",
+    "sessions_total": 12,
+    "sessions_attended": 5,
+    "late_submissions": 3,
+    "attendance_percent": 41.666666666666664,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0103",
+    "name": "Sibusiso Mokoena",
+    "sessions_total": 19,
+    "sessions_attended": 8,
+    "late_submissions": 5,
+    "attendance_percent": 42.10526315789474,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0029",
+    "name": "Tumelo Motaung",
+    "sessions_total": 19,
+    "sessions_attended": 8,
+    "late_submissions": 3,
+    "attendance_percent": 42.10526315789474,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0186",
+    "name": "Sibusiso Radebe",
+    "sessions_total": 19,
+    "sessions_attended": 8,
+    "late_submissions": 3,
+    "attendance_percent": 42.10526315789474,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0148",
+    "name": "Sipho Mathebula",
+    "sessions_total": 21,
+    "sessions_attended": 9,
+    "late_submissions": 6,
+    "attendance_percent": 42.857142857142854,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0206",
+    "name": "Katlego Khumalo",
+    "sessions_total": 25,
+    "sessions_attended": 11,
+    "late_submissions": 3,
+    "attendance_percent": 44.0,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0177",
+    "name": "Palesa Mphahlele",
+    "sessions_total": 18,
+    "sessions_attended": 8,
+    "late_submissions": 2,
+    "attendance_percent": 44.44444444444444,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0237",
+    "name": "Tshepo Mabena",
+    "sessions_total": 18,
+    "sessions_attended": 8,
+    "late_submissions": 2,
+    "attendance_percent": 44.44444444444444,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0045",
+    "name": "Katlego Molefe",
+    "sessions_total": 20,
+    "sessions_attended": 9,
+    "late_submissions": 2,
+    "attendance_percent": 45.0,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0101",
+    "name": "Mpho Mabena",
+    "sessions_total": 20,
+    "sessions_attended": 9,
+    "late_submissions": 1,
+    "attendance_percent": 45.0,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0051",
+    "name": "Zanele Mogale",
+    "sessions_total": 20,
+    "sessions_attended": 9,
+    "late_submissions": 0,
+    "attendance_percent": 45.0,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0190",
+    "name": "Lesedi Mphahlele",
+    "sessions_total": 22,
+    "sessions_attended": 10,
+    "late_submissions": 5,
+    "attendance_percent": 45.45454545454545,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0172",
+    "name": "Zanele Mthembu",
+    "sessions_total": 11,
+    "sessions_attended": 5,
+    "late_submissions": 4,
+    "attendance_percent": 45.45454545454545,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0173",
+    "name": "Thandi Molefe",
+    "sessions_total": 15,
+    "sessions_attended": 7,
+    "late_submissions": 6,
+    "attendance_percent": 46.666666666666664,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0183",
+    "name": "Nomsa Radebe",
+    "sessions_total": 15,
+    "sessions_attended": 7,
+    "late_submissions": 1,
+    "attendance_percent": 46.666666666666664,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0127",
+    "name": "Mandla Molefe",
+    "sessions_total": 17,
+    "sessions_attended": 8,
+    "late_submissions": 4,
+    "attendance_percent": 47.05882352941177,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0046",
+    "name": "Neo Molefe",
+    "sessions_total": 17,
+    "sessions_attended": 8,
+    "late_submissions": 3,
+    "attendance_percent": 47.05882352941177,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0214",
+    "name": "Mandla Molefe",
+    "sessions_total": 23,
+    "sessions_attended": 11,
+    "late_submissions": 1,
+    "attendance_percent": 47.82608695652174,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0007",
+    "name": "Thandi Ndlovu",
+    "sessions_total": 22,
+    "sessions_attended": 11,
+    "late_submissions": 3,
+    "attendance_percent": 50.0,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0207",
+    "name": "Lerato Mogale",
+    "sessions_total": 14,
+    "sessions_attended": 7,
+    "late_submissions": 1,
+    "attendance_percent": 50.0,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0097",
+    "name": "Lerato Ndlovu",
+    "sessions_total": 12,
+    "sessions_attended": 6,
+    "late_submissions": 0,
+    "attendance_percent": 50.0,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0024",
+    "name": "Lesedi Radebe",
+    "sessions_total": 25,
+    "sessions_attended": 13,
+    "late_submissions": 3,
+    "attendance_percent": 52.0,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0003",
+    "name": "Ayanda Sithole",
+    "sessions_total": 21,
+    "sessions_attended": 11,
+    "late_submissions": 0,
+    "attendance_percent": 52.38095238095238,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0099",
+    "name": "Mpho Nkosi",
+    "sessions_total": 17,
+    "sessions_attended": 9,
+    "late_submissions": 6,
+    "attendance_percent": 52.94117647058823,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0169",
+    "name": "Lerato Mogale",
+    "sessions_total": 17,
+    "sessions_attended": 9,
+    "late_submissions": 6,
+    "attendance_percent": 52.94117647058823,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0185",
+    "name": "Ayanda Mogale",
+    "sessions_total": 17,
+    "sessions_attended": 9,
+    "late_submissions": 5,
+    "attendance_percent": 52.94117647058823,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0249",
+    "name": "Neo Mogale",
+    "sessions_total": 17,
+    "sessions_attended": 9,
+    "late_submissions": 2,
+    "attendance_percent": 52.94117647058823,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0250",
+    "name": "Ayanda Mahlangu",
+    "sessions_total": 13,
+    "sessions_attended": 7,
+    "late_submissions": 0,
+    "attendance_percent": 53.84615384615385,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0028",
+    "name": "Neo Mathebula",
+    "sessions_total": 11,
+    "sessions_attended": 6,
+    "late_submissions": 6,
+    "attendance_percent": 54.54545454545455,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0013",
+    "name": "Kabelo Nkosi",
+    "sessions_total": 11,
+    "sessions_attended": 6,
+    "late_submissions": 5,
+    "attendance_percent": 54.54545454545455,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0083",
+    "name": "Mpho Motaung",
+    "sessions_total": 11,
+    "sessions_attended": 6,
+    "late_submissions": 4,
+    "attendance_percent": 54.54545454545455,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0011",
+    "name": "Mpho Mokoena",
+    "sessions_total": 11,
+    "sessions_attended": 6,
+    "late_submissions": 3,
+    "attendance_percent": 54.54545454545455,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0235",
+    "name": "Nomsa Mabaso",
+    "sessions_total": 20,
+    "sessions_attended": 11,
+    "late_submissions": 1,
+    "attendance_percent": 55.0,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0135",
+    "name": "Ayanda Sithole",
+    "sessions_total": 18,
+    "sessions_attended": 10,
+    "late_submissions": 4,
+    "attendance_percent": 55.55555555555556,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0018",
+    "name": "Karabo Mahlangu",
+    "sessions_total": 25,
+    "sessions_attended": 14,
+    "late_submissions": 4,
+    "attendance_percent": 56.0,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0065",
+    "name": "Nomsa Mokoena",
+    "sessions_total": 25,
+    "sessions_attended": 14,
+    "late_submissions": 1,
+    "attendance_percent": 56.0,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0159",
+    "name": "Mpho Masango",
+    "sessions_total": 19,
+    "sessions_attended": 11,
+    "late_submissions": 2,
+    "attendance_percent": 57.89473684210526,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0122",
+    "name": "Nomsa Mokoena",
+    "sessions_total": 19,
+    "sessions_attended": 11,
+    "late_submissions": 1,
+    "attendance_percent": 57.89473684210526,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0076",
+    "name": "Sibusiso Mabaso",
+    "sessions_total": 24,
+    "sessions_attended": 14,
+    "late_submissions": 3,
+    "attendance_percent": 58.333333333333336,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0089",
+    "name": "Mpho Molefe",
+    "sessions_total": 10,
+    "sessions_attended": 6,
+    "late_submissions": 3,
+    "attendance_percent": 60.0,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0239",
+    "name": "Mandla Motaung",
+    "sessions_total": 10,
+    "sessions_attended": 6,
+    "late_submissions": 2,
+    "attendance_percent": 60.0,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0055",
+    "name": "Lesedi Radebe",
+    "sessions_total": 15,
+    "sessions_attended": 9,
+    "late_submissions": 1,
+    "attendance_percent": 60.0,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0112",
+    "name": "Mandla Mabaso",
+    "sessions_total": 15,
+    "sessions_attended": 9,
+    "late_submissions": 1,
+    "attendance_percent": 60.0,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0139",
+    "name": "Sipho Nkosi",
+    "sessions_total": 10,
+    "sessions_attended": 6,
+    "late_submissions": 0,
+    "attendance_percent": 60.0,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0043",
+    "name": "Tshepo Masango",
+    "sessions_total": 18,
+    "sessions_attended": 11,
+    "late_submissions": 5,
+    "attendance_percent": 61.111111111111114,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0063",
+    "name": "Neo Sithole",
+    "sessions_total": 13,
+    "sessions_attended": 8,
+    "late_submissions": 4,
+    "attendance_percent": 61.53846153846154,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0084",
+    "name": "Tumelo Mthembu",
+    "sessions_total": 13,
+    "sessions_attended": 8,
+    "late_submissions": 1,
+    "attendance_percent": 61.53846153846154,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0114",
+    "name": "Nomsa Sithole",
+    "sessions_total": 24,
+    "sessions_attended": 15,
+    "late_submissions": 6,
+    "attendance_percent": 62.5,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0117",
+    "name": "Karabo Mphahlele",
+    "sessions_total": 24,
+    "sessions_attended": 15,
+    "late_submissions": 0,
+    "attendance_percent": 62.5,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0187",
+    "name": "Ayanda Dlamini",
+    "sessions_total": 19,
+    "sessions_attended": 12,
+    "late_submissions": 6,
+    "attendance_percent": 63.1578947368421,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0150",
+    "name": "Lesedi Mabena",
+    "sessions_total": 11,
+    "sessions_attended": 7,
+    "late_submissions": 0,
+    "attendance_percent": 63.63636363636363,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0244",
+    "name": "Naledi Mphahlele",
+    "sessions_total": 25,
+    "sessions_attended": 16,
+    "late_submissions": 2,
+    "attendance_percent": 64.0,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0233",
+    "name": "Thandi Mphahlele",
+    "sessions_total": 14,
+    "sessions_attended": 9,
+    "late_submissions": 0,
+    "attendance_percent": 64.28571428571429,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0179",
+    "name": "Mpho Radebe",
+    "sessions_total": 23,
+    "sessions_attended": 15,
+    "late_submissions": 5,
+    "attendance_percent": 65.21739130434783,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0234",
+    "name": "Thandi Mthembu",
+    "sessions_total": 23,
+    "sessions_attended": 15,
+    "late_submissions": 4,
+    "attendance_percent": 65.21739130434783,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0038",
+    "name": "Kabelo Molefe",
+    "sessions_total": 23,
+    "sessions_attended": 15,
+    "late_submissions": 2,
+    "attendance_percent": 65.21739130434783,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0108",
+    "name": "Karabo Ndlovu",
+    "sessions_total": 15,
+    "sessions_attended": 10,
+    "late_submissions": 6,
+    "attendance_percent": 66.66666666666667,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0218",
+    "name": "Tshepo Mokoena",
+    "sessions_total": 15,
+    "sessions_attended": 10,
+    "late_submissions": 6,
+    "attendance_percent": 66.66666666666667,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0120",
+    "name": "Karabo Mogale",
+    "sessions_total": 21,
+    "sessions_attended": 14,
+    "late_submissions": 3,
+    "attendance_percent": 66.66666666666667,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0124",
+    "name": "Kabelo Dlamini",
+    "sessions_total": 21,
+    "sessions_attended": 14,
+    "late_submissions": 3,
+    "attendance_percent": 66.66666666666667,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0161",
+    "name": "Mandla Mathebula",
+    "sessions_total": 15,
+    "sessions_attended": 10,
+    "late_submissions": 1,
+    "attendance_percent": 66.66666666666667,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0014",
+    "name": "Sipho Maseko",
+    "sessions_total": 21,
+    "sessions_attended": 14,
+    "late_submissions": 0,
+    "attendance_percent": 66.66666666666667,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0010",
+    "name": "Kabelo Mphahlele",
+    "sessions_total": 12,
+    "sessions_attended": 8,
+    "late_submissions": 0,
+    "attendance_percent": 66.66666666666667,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0245",
+    "name": "Lesedi Mthembu",
+    "sessions_total": 22,
+    "sessions_attended": 15,
+    "late_submissions": 6,
+    "attendance_percent": 68.18181818181819,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0058",
+    "name": "Lerato Mogale",
+    "sessions_total": 22,
+    "sessions_attended": 15,
+    "late_submissions": 0,
+    "attendance_percent": 68.18181818181819,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0221",
+    "name": "Sibusiso Mabaso",
+    "sessions_total": 19,
+    "sessions_attended": 13,
+    "late_submissions": 6,
+    "attendance_percent": 68.42105263157895,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0077",
+    "name": "Ayanda Dlamini",
+    "sessions_total": 19,
+    "sessions_attended": 13,
+    "late_submissions": 5,
+    "attendance_percent": 68.42105263157895,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0140",
+    "name": "Mandla Mphahlele",
+    "sessions_total": 19,
+    "sessions_attended": 13,
+    "late_submissions": 0,
+    "attendance_percent": 68.42105263157895,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0050",
+    "name": "Zanele Molefe",
+    "sessions_total": 19,
+    "sessions_attended": 13,
+    "late_submissions": 0,
+    "attendance_percent": 68.42105263157895,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0020",
+    "name": "Kabelo Maseko",
+    "sessions_total": 16,
+    "sessions_attended": 11,
+    "late_submissions": 2,
+    "attendance_percent": 68.75,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0157",
+    "name": "Neo Mogale",
+    "sessions_total": 13,
+    "sessions_attended": 9,
+    "late_submissions": 0,
+    "attendance_percent": 69.23076923076923,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0087",
+    "name": "Palesa Maseko",
+    "sessions_total": 23,
+    "sessions_attended": 16,
+    "late_submissions": 1,
+    "attendance_percent": 69.56521739130434,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0081",
+    "name": "Karabo Masango",
+    "sessions_total": 23,
+    "sessions_attended": 16,
+    "late_submissions": 0,
+    "attendance_percent": 69.56521739130434,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0176",
+    "name": "Zanele Dlamini",
+    "sessions_total": 20,
+    "sessions_attended": 14,
+    "late_submissions": 6,
+    "attendance_percent": 70.0,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0223",
+    "name": "Ayanda Masango",
+    "sessions_total": 20,
+    "sessions_attended": 14,
+    "late_submissions": 3,
+    "attendance_percent": 70.0,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0118",
+    "name": "Tumelo Motaung",
+    "sessions_total": 10,
+    "sessions_attended": 7,
+    "late_submissions": 2,
+    "attendance_percent": 70.0,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0119",
+    "name": "Tshepo Sithole",
+    "sessions_total": 10,
+    "sessions_attended": 7,
+    "late_submissions": 1,
+    "attendance_percent": 70.0,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0033",
+    "name": "Palesa Mthembu",
+    "sessions_total": 20,
+    "sessions_attended": 14,
+    "late_submissions": 0,
+    "attendance_percent": 70.0,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0006",
+    "name": "Neo Mathebula",
+    "sessions_total": 17,
+    "sessions_attended": 12,
+    "late_submissions": 3,
+    "attendance_percent": 70.58823529411765,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0163",
+    "name": "Palesa Mokoena",
+    "sessions_total": 17,
+    "sessions_attended": 12,
+    "late_submissions": 2,
+    "attendance_percent": 70.58823529411765,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0040",
+    "name": "Nomsa Mathebula",
+    "sessions_total": 24,
+    "sessions_attended": 17,
+    "late_submissions": 5,
+    "attendance_percent": 70.83333333333333,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0092",
+    "name": "Kabelo Dlamini",
+    "sessions_total": 24,
+    "sessions_attended": 17,
+    "late_submissions": 2,
+    "attendance_percent": 70.83333333333333,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0151",
+    "name": "Zanele Dlamini",
+    "sessions_total": 14,
+    "sessions_attended": 10,
+    "late_submissions": 1,
+    "attendance_percent": 71.42857142857143,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0037",
+    "name": "Thandi Ndlovu",
+    "sessions_total": 18,
+    "sessions_attended": 13,
+    "late_submissions": 3,
+    "attendance_percent": 72.22222222222223,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0189",
+    "name": "Naledi Mokoena",
+    "sessions_total": 18,
+    "sessions_attended": 13,
+    "late_submissions": 3,
+    "attendance_percent": 72.22222222222223,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0153",
+    "name": "Naledi Mathebula",
+    "sessions_total": 18,
+    "sessions_attended": 13,
+    "late_submissions": 0,
+    "attendance_percent": 72.22222222222223,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0025",
+    "name": "Neo Ndlovu",
+    "sessions_total": 11,
+    "sessions_attended": 8,
+    "late_submissions": 2,
+    "attendance_percent": 72.72727272727273,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0053",
+    "name": "Katlego Sithole",
+    "sessions_total": 15,
+    "sessions_attended": 11,
+    "late_submissions": 6,
+    "attendance_percent": 73.33333333333333,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0152",
+    "name": "Tumelo Masango",
+    "sessions_total": 19,
+    "sessions_attended": 14,
+    "late_submissions": 6,
+    "attendance_percent": 73.6842105263158,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0217",
+    "name": "Mpho Mahlangu",
+    "sessions_total": 19,
+    "sessions_attended": 14,
+    "late_submissions": 1,
+    "attendance_percent": 73.6842105263158,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0067",
+    "name": "Neo Molefe",
+    "sessions_total": 12,
+    "sessions_attended": 9,
+    "late_submissions": 3,
+    "attendance_percent": 75.0,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0071",
+    "name": "Nomsa Motaung",
+    "sessions_total": 25,
+    "sessions_attended": 19,
+    "late_submissions": 6,
+    "attendance_percent": 76.0,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0109",
+    "name": "Nomsa Mogale",
+    "sessions_total": 21,
+    "sessions_attended": 16,
+    "late_submissions": 6,
+    "attendance_percent": 76.19047619047619,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0241",
+    "name": "Refilwe Motaung",
+    "sessions_total": 17,
+    "sessions_attended": 13,
+    "late_submissions": 4,
+    "attendance_percent": 76.47058823529412,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0126",
+    "name": "Sipho Khumalo",
+    "sessions_total": 13,
+    "sessions_attended": 10,
+    "late_submissions": 0,
+    "attendance_percent": 76.92307692307692,
+    "risk": "LOW"
+  },
+  {
+    "student_id": "C6STU0138",
+    "name": "Mandla Mthembu",
+    "sessions_total": 22,
+    "sessions_attended": 17,
+    "late_submissions": 6,
+    "attendance_percent": 77.27272727272727,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0022",
+    "name": "Katlego Mahlangu",
+    "sessions_total": 23,
+    "sessions_attended": 18,
+    "late_submissions": 6,
+    "attendance_percent": 78.26086956521739,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0057",
+    "name": "Lerato Khumalo",
+    "sessions_total": 14,
+    "sessions_attended": 11,
+    "late_submissions": 5,
+    "attendance_percent": 78.57142857142857,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0005",
+    "name": "Kabelo Mathebula",
+    "sessions_total": 19,
+    "sessions_attended": 15,
+    "late_submissions": 3,
+    "attendance_percent": 78.94736842105263,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0147",
+    "name": "Refilwe Sithole",
+    "sessions_total": 19,
+    "sessions_attended": 15,
+    "late_submissions": 3,
+    "attendance_percent": 78.94736842105263,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0155",
+    "name": "Sipho Mabena",
+    "sessions_total": 19,
+    "sessions_attended": 15,
+    "late_submissions": 0,
+    "attendance_percent": 78.94736842105263,
+    "risk": "LOW"
+  },
+  {
+    "student_id": "C6STU0165",
+    "name": "Nomsa Masango",
+    "sessions_total": 10,
+    "sessions_attended": 8,
+    "late_submissions": 5,
+    "attendance_percent": 80.0,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0208",
+    "name": "Tshepo Motaung",
+    "sessions_total": 25,
+    "sessions_attended": 20,
+    "late_submissions": 3,
+    "attendance_percent": 80.0,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0129",
+    "name": "Zanele Khumalo",
+    "sessions_total": 10,
+    "sessions_attended": 8,
+    "late_submissions": 2,
+    "attendance_percent": 80.0,
+    "risk": "LOW"
+  },
+  {
+    "student_id": "C6STU0079",
+    "name": "Tshepo Dlamini",
+    "sessions_total": 20,
+    "sessions_attended": 16,
+    "late_submissions": 2,
+    "attendance_percent": 80.0,
+    "risk": "LOW"
+  },
+  {
+    "student_id": "C6STU0197",
+    "name": "Neo Dlamini",
+    "sessions_total": 21,
+    "sessions_attended": 17,
+    "late_submissions": 1,
+    "attendance_percent": 80.95238095238095,
+    "risk": "LOW"
+  },
+  {
+    "student_id": "C6STU0100",
+    "name": "Refilwe Molefe",
+    "sessions_total": 16,
+    "sessions_attended": 13,
+    "late_submissions": 4,
+    "attendance_percent": 81.25,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0227",
+    "name": "Palesa Dlamini",
+    "sessions_total": 18,
+    "sessions_attended": 15,
+    "late_submissions": 5,
+    "attendance_percent": 83.33333333333333,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0230",
+    "name": "Tshepo Mokoena",
+    "sessions_total": 24,
+    "sessions_attended": 20,
+    "late_submissions": 1,
+    "attendance_percent": 83.33333333333333,
+    "risk": "LOW"
+  },
+  {
+    "student_id": "C6STU0121",
+    "name": "Palesa Mabena",
+    "sessions_total": 12,
+    "sessions_attended": 10,
+    "late_submissions": 0,
+    "attendance_percent": 83.33333333333333,
+    "risk": "LOW"
+  },
+  {
+    "student_id": "C6STU0060",
+    "name": "Kabelo Mabena",
+    "sessions_total": 12,
+    "sessions_attended": 10,
+    "late_submissions": 0,
+    "attendance_percent": 83.33333333333333,
+    "risk": "LOW"
+  },
+  {
+    "student_id": "C6STU0215",
+    "name": "Palesa Molefe",
+    "sessions_total": 25,
+    "sessions_attended": 21,
+    "late_submissions": 2,
+    "attendance_percent": 84.0,
+    "risk": "LOW"
+  },
+  {
+    "student_id": "C6STU0048",
+    "name": "Lerato Mphahlele",
+    "sessions_total": 13,
+    "sessions_attended": 11,
+    "late_submissions": 2,
+    "attendance_percent": 84.61538461538461,
+    "risk": "LOW"
+  },
+  {
+    "student_id": "C6STU0102",
+    "name": "Refilwe Motaung",
+    "sessions_total": 13,
+    "sessions_attended": 11,
+    "late_submissions": 1,
+    "attendance_percent": 84.61538461538461,
+    "risk": "LOW"
+  },
+  {
+    "student_id": "C6STU0116",
+    "name": "Katlego Masango",
+    "sessions_total": 13,
+    "sessions_attended": 11,
+    "late_submissions": 0,
+    "attendance_percent": 84.61538461538461,
+    "risk": "LOW"
+  },
+  {
+    "student_id": "C6STU0198",
+    "name": "Lerato Maseko",
+    "sessions_total": 14,
+    "sessions_attended": 12,
+    "late_submissions": 3,
+    "attendance_percent": 85.71428571428571,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0069",
+    "name": "Sipho Mokoena",
+    "sessions_total": 15,
+    "sessions_attended": 13,
+    "late_submissions": 2,
+    "attendance_percent": 86.66666666666667,
+    "risk": "LOW"
+  },
+  {
+    "student_id": "C6STU0066",
+    "name": "Sibusiso Motaung",
+    "sessions_total": 23,
+    "sessions_attended": 20,
+    "late_submissions": 6,
+    "attendance_percent": 86.95652173913044,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0166",
+    "name": "Sipho Sithole",
+    "sessions_total": 23,
+    "sessions_attended": 20,
+    "late_submissions": 4,
+    "attendance_percent": 86.95652173913044,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0113",
+    "name": "Tumelo Mphahlele",
+    "sessions_total": 24,
+    "sessions_attended": 21,
+    "late_submissions": 1,
+    "attendance_percent": 87.5,
+    "risk": "LOW"
+  },
+  {
+    "student_id": "C6STU0017",
+    "name": "Refilwe Ndlovu",
+    "sessions_total": 16,
+    "sessions_attended": 14,
+    "late_submissions": 0,
+    "attendance_percent": 87.5,
+    "risk": "LOW"
+  },
+  {
+    "student_id": "C6STU0086",
+    "name": "Mandla Dlamini",
+    "sessions_total": 16,
+    "sessions_attended": 14,
+    "late_submissions": 0,
+    "attendance_percent": 87.5,
+    "risk": "LOW"
+  },
+  {
+    "student_id": "C6STU0229",
+    "name": "Tshepo Mphahlele",
+    "sessions_total": 25,
+    "sessions_attended": 22,
+    "late_submissions": 0,
+    "attendance_percent": 88.0,
+    "risk": "LOW"
+  },
+  {
+    "student_id": "C6STU0209",
+    "name": "Naledi Ndlovu",
+    "sessions_total": 17,
+    "sessions_attended": 15,
+    "late_submissions": 4,
+    "attendance_percent": 88.23529411764706,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0078",
+    "name": "Mpho Dlamini",
+    "sessions_total": 18,
+    "sessions_attended": 16,
+    "late_submissions": 3,
+    "attendance_percent": 88.88888888888889,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0128",
+    "name": "Tumelo Mogale",
+    "sessions_total": 19,
+    "sessions_attended": 17,
+    "late_submissions": 6,
+    "attendance_percent": 89.47368421052632,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0204",
+    "name": "Karabo Mabaso",
+    "sessions_total": 20,
+    "sessions_attended": 18,
+    "late_submissions": 5,
+    "attendance_percent": 90.0,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0104",
+    "name": "Lerato Mokoena",
+    "sessions_total": 10,
+    "sessions_attended": 9,
+    "late_submissions": 0,
+    "attendance_percent": 90.0,
+    "risk": "LOW"
+  },
+  {
+    "student_id": "C6STU0236",
+    "name": "Tumelo Radebe",
+    "sessions_total": 21,
+    "sessions_attended": 19,
+    "late_submissions": 4,
+    "attendance_percent": 90.47619047619048,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0242",
+    "name": "Lerato Mthembu",
+    "sessions_total": 22,
+    "sessions_attended": 20,
+    "late_submissions": 5,
+    "attendance_percent": 90.9090909090909,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0143",
+    "name": "Palesa Mphahlele",
+    "sessions_total": 11,
+    "sessions_attended": 10,
+    "late_submissions": 3,
+    "attendance_percent": 90.9090909090909,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0095",
+    "name": "Mpho Mphahlele",
+    "sessions_total": 23,
+    "sessions_attended": 21,
+    "late_submissions": 6,
+    "attendance_percent": 91.30434782608695,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0068",
+    "name": "Sibusiso Khumalo",
+    "sessions_total": 12,
+    "sessions_attended": 11,
+    "late_submissions": 4,
+    "attendance_percent": 91.66666666666667,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0107",
+    "name": "Kabelo Mabaso",
+    "sessions_total": 24,
+    "sessions_attended": 22,
+    "late_submissions": 3,
+    "attendance_percent": 91.66666666666667,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0216",
+    "name": "Lesedi Radebe",
+    "sessions_total": 12,
+    "sessions_attended": 11,
+    "late_submissions": 2,
+    "attendance_percent": 91.66666666666667,
+    "risk": "LOW"
+  },
+  {
+    "student_id": "C6STU0191",
+    "name": "Refilwe Sithole",
+    "sessions_total": 25,
+    "sessions_attended": 23,
+    "late_submissions": 3,
+    "attendance_percent": 92.0,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0094",
+    "name": "Mpho Dlamini",
+    "sessions_total": 13,
+    "sessions_attended": 12,
+    "late_submissions": 5,
+    "attendance_percent": 92.3076923076923,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0073",
+    "name": "Nomsa Dlamini",
+    "sessions_total": 14,
+    "sessions_attended": 13,
+    "late_submissions": 3,
+    "attendance_percent": 92.85714285714286,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0026",
+    "name": "Nomsa Radebe",
+    "sessions_total": 14,
+    "sessions_attended": 13,
+    "late_submissions": 1,
+    "attendance_percent": 92.85714285714286,
+    "risk": "LOW"
+  },
+  {
+    "student_id": "C6STU0156",
+    "name": "Mandla Khumalo",
+    "sessions_total": 15,
+    "sessions_attended": 14,
+    "late_submissions": 3,
+    "attendance_percent": 93.33333333333333,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0240",
+    "name": "Lesedi Motaung",
+    "sessions_total": 15,
+    "sessions_attended": 14,
+    "late_submissions": 2,
+    "attendance_percent": 93.33333333333333,
+    "risk": "LOW"
+  },
+  {
+    "student_id": "C6STU0248",
+    "name": "Tshepo Molefe",
+    "sessions_total": 17,
+    "sessions_attended": 16,
+    "late_submissions": 6,
+    "attendance_percent": 94.11764705882354,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0111",
+    "name": "Zanele Mphahlele",
+    "sessions_total": 17,
+    "sessions_attended": 16,
+    "late_submissions": 5,
+    "attendance_percent": 94.11764705882354,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0171",
+    "name": "Sibusiso Nkosi",
+    "sessions_total": 17,
+    "sessions_attended": 16,
+    "late_submissions": 0,
+    "attendance_percent": 94.11764705882354,
+    "risk": "LOW"
+  },
+  {
+    "student_id": "C6STU0193",
+    "name": "Katlego Radebe",
+    "sessions_total": 19,
+    "sessions_attended": 18,
+    "late_submissions": 0,
+    "attendance_percent": 94.73684210526316,
+    "risk": "LOW"
+  },
+  {
+    "student_id": "C6STU0091",
+    "name": "Karabo Motaung",
+    "sessions_total": 20,
+    "sessions_attended": 19,
+    "late_submissions": 1,
+    "attendance_percent": 95.0,
+    "risk": "LOW"
+  },
+  {
+    "student_id": "C6STU0130",
+    "name": "Mpho Mphahlele",
+    "sessions_total": 21,
+    "sessions_attended": 20,
+    "late_submissions": 6,
+    "attendance_percent": 95.23809523809524,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0228",
+    "name": "Mpho Maseko",
+    "sessions_total": 21,
+    "sessions_attended": 20,
+    "late_submissions": 2,
+    "attendance_percent": 95.23809523809524,
+    "risk": "LOW"
+  },
+  {
+    "student_id": "C6STU0105",
+    "name": "Lerato Motaung",
+    "sessions_total": 22,
+    "sessions_attended": 21,
+    "late_submissions": 4,
+    "attendance_percent": 95.45454545454545,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0199",
+    "name": "Mpho Maseko",
+    "sessions_total": 23,
+    "sessions_attended": 22,
+    "late_submissions": 5,
+    "attendance_percent": 95.65217391304348,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0224",
+    "name": "Mpho Nkosi",
+    "sessions_total": 23,
+    "sessions_attended": 22,
+    "late_submissions": 1,
+    "attendance_percent": 95.65217391304348,
+    "risk": "LOW"
+  },
+  {
+    "student_id": "C6STU0106",
+    "name": "Mandla Masango",
+    "sessions_total": 24,
+    "sessions_attended": 23,
+    "late_submissions": 5,
+    "attendance_percent": 95.83333333333333,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0136",
+    "name": "Mandla Mogale",
+    "sessions_total": 24,
+    "sessions_attended": 23,
+    "late_submissions": 3,
+    "attendance_percent": 95.83333333333333,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0002",
+    "name": "Lerato Masango",
+    "sessions_total": 24,
+    "sessions_attended": 23,
+    "late_submissions": 1,
+    "attendance_percent": 95.83333333333333,
+    "risk": "LOW"
+  },
+  {
+    "student_id": "C6STU0032",
+    "name": "Lerato Ndlovu",
+    "sessions_total": 12,
+    "sessions_attended": 12,
+    "late_submissions": 6,
+    "attendance_percent": 100.0,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0142",
+    "name": "Karabo Ndlovu",
+    "sessions_total": 13,
+    "sessions_attended": 13,
+    "late_submissions": 6,
+    "attendance_percent": 100.0,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0110",
+    "name": "Lesedi Mathebula",
+    "sessions_total": 10,
+    "sessions_attended": 10,
+    "late_submissions": 6,
+    "attendance_percent": 100.0,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0201",
+    "name": "Nomsa Sithole",
+    "sessions_total": 13,
+    "sessions_attended": 13,
+    "late_submissions": 6,
+    "attendance_percent": 100.0,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0132",
+    "name": "Naledi Ndlovu",
+    "sessions_total": 10,
+    "sessions_attended": 10,
+    "late_submissions": 5,
+    "attendance_percent": 100.0,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0226",
+    "name": "Lerato Ndlovu",
+    "sessions_total": 13,
+    "sessions_attended": 13,
+    "late_submissions": 5,
+    "attendance_percent": 100.0,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0047",
+    "name": "Tshepo Molefe",
+    "sessions_total": 25,
+    "sessions_attended": 25,
+    "late_submissions": 5,
+    "attendance_percent": 100.0,
+    "risk": "HIGH"
+  },
+  {
+    "student_id": "C6STU0211",
+    "name": "Palesa Motaung",
+    "sessions_total": 19,
+    "sessions_attended": 19,
+    "late_submissions": 4,
+    "attendance_percent": 100.0,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0061",
+    "name": "Kabelo Mphahlele",
+    "sessions_total": 10,
+    "sessions_attended": 10,
+    "late_submissions": 4,
+    "attendance_percent": 100.0,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0080",
+    "name": "Sibusiso Mabena",
+    "sessions_total": 22,
+    "sessions_attended": 22,
+    "late_submissions": 4,
+    "attendance_percent": 100.0,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0023",
+    "name": "Tshepo Mthembu",
+    "sessions_total": 14,
+    "sessions_attended": 14,
+    "late_submissions": 3,
+    "attendance_percent": 100.0,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0001",
+    "name": "Lesedi Radebe",
+    "sessions_total": 20,
+    "sessions_attended": 20,
+    "late_submissions": 3,
+    "attendance_percent": 100.0,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0031",
+    "name": "Tshepo Masango",
+    "sessions_total": 17,
+    "sessions_attended": 17,
+    "late_submissions": 3,
+    "attendance_percent": 100.0,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0088",
+    "name": "Sipho Mabaso",
+    "sessions_total": 16,
+    "sessions_attended": 16,
+    "late_submissions": 3,
+    "attendance_percent": 100.0,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0158",
+    "name": "Sibusiso Dlamini",
+    "sessions_total": 15,
+    "sessions_attended": 15,
+    "late_submissions": 3,
+    "attendance_percent": 100.0,
+    "risk": "MEDIUM"
+  },
+  {
+    "student_id": "C6STU0004",
+    "name": "Mandla Mathebula",
+    "sessions_total": 10,
+    "sessions_attended": 10,
+    "late_submissions": 2,
+    "attendance_percent": 100.0,
+    "risk": "LOW"
+  },
+  {
+    "student_id": "C6STU0231",
+    "name": "Karabo Radebe",
+    "sessions_total": 17,
+    "sessions_attended": 17,
+    "late_submissions": 2,
+    "attendance_percent": 100.0,
+    "risk": "LOW"
+  },
+  {
+    "student_id": "C6STU0192",
+    "name": "Zanele Sithole",
+    "sessions_total": 15,
+    "sessions_attended": 15,
+    "late_submissions": 1,
+    "attendance_percent": 100.0,
+    "risk": "LOW"
+  },
+  {
+    "student_id": "C6STU0168",
+    "name": "Sipho Sithole",
+    "sessions_total": 14,
+    "sessions_attended": 14,
+    "late_submissions": 1,
+    "attendance_percent": 100.0,
+    "risk": "LOW"
+  },
+  {
+    "student_id": "C6STU0044",
+    "name": "Lerato Khumalo",
+    "sessions_total": 11,
+    "sessions_attended": 11,
+    "late_submissions": 1,
+    "attendance_percent": 100.0,
+    "risk": "LOW"
+  },
+  {
+    "student_id": "C6STU0164",
+    "name": "Mpho Mabaso",
+    "sessions_total": 22,
+    "sessions_attended": 22,
+    "late_submissions": 0,
+    "attendance_percent": 100.0,
+    "risk": "LOW"
+  },
+  {
+    "student_id": "C6STU0144",
+    "name": "Neo Nkosi",
+    "sessions_total": 13,
+    "sessions_attended": 13,
+    "late_submissions": 0,
+    "attendance_percent": 100.0,
+    "risk": "LOW"
+  }
+]

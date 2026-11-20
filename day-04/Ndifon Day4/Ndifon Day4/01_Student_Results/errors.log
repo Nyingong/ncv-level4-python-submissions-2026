@@ -1,0 +1,6 @@
+Line 25: Mark must be between 0 and 100 | 6025,Test Student,102;65;70
+Line 50: Mark is not a whole number | 6050,Test Student,60;bad;70
+Line 75: Duplicate student number | 6074,Test Student,60;70;80
+Line 100: Student name is missing | 6100,,60;70;80
+Line 125: Exactly three marks are required | 6125,Test Student,60;70
+Line 150: Student number must contain digits | XX6,Test Student,60;70;80

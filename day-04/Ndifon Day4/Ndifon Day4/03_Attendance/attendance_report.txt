@@ -1,0 +1,17 @@
+STUDENT ATTENDANCE EARLY WARNING
+Accepted: 246 | Rejected: 4
+HIGH: 147
+MEDIUM: 65
+LOW: 34
+
+10 LOWEST ATTENDANCE RECORDS
+C6STU0034 Sipho Mokoena: 12.0% (HIGH)
+C6STU0093 Neo Mthembu: 12.0% (HIGH)
+C6STU0146 Boitumelo Mathebula: 12.0% (HIGH)
+C6STU0200 Nomsa Ndlovu: 13.0% (HIGH)
+C6STU0202 Lerato Dlamini: 13.6% (HIGH)
+C6STU0075 Tumelo Khumalo: 14.3% (HIGH)
+C6STU0246 Karabo Masango: 14.3% (HIGH)
+C6STU0072 Mpho Sithole: 14.3% (HIGH)
+C6STU0016 Karabo Mabaso: 14.3% (HIGH)
+C6STU0181 Palesa Radebe: 15.8% (HIGH)
